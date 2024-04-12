@@ -1,0 +1,22 @@
+td {
+    text-align: center;
+    padding: 10px;
+}
+table {
+    width:100%;
+    border-style: solid;
+    border-collapse: collapse;
+    
+}
+tr:nth-child(even) {
+    background-color: #FAFAFA;
+    }
+.first_row {
+    background-color: #EBEBEB;
+}
+* {
+    font-family: Roboto;
+}
+caption {
+    text-align: center;
+}
